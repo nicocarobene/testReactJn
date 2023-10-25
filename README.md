@@ -1,4 +1,3 @@
-# React + TypeScript + Vite
 # React Interview - Prueba Técnica Junior
 
 Este proyecto es parte de una prueba técnica para un puesto junior en React.js. Es una aplicación simple de lista de tareas que te permite agregar y eliminar elementos de la lista. El proyecto está construido con React.js y se han realizado pruebas unitarias con Vitest.
@@ -14,7 +13,7 @@ Este proyecto es parte de una prueba técnica para un puesto junior en React.js.
 1. Clona este repositorio a tu máquina local:
 
 ```bash
-git clone <URL_del_repositorio>
+[git clone <URL_del_repositorio>](https://github.com/nicocarobene/testReactJn.git)
 ```
 
 ## Prubeas Unitarias
