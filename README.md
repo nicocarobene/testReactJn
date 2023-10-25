@@ -13,7 +13,7 @@ Este proyecto es parte de una prueba técnica para un puesto junior en React.js.
 1. Clona este repositorio a tu máquina local:
 
 ```bash
-[git clone <URL_del_repositorio>](https://github.com/nicocarobene/testReactJn.git)
+[git clone https://github.com/nicocarobene/testReactJn.git]
 ```
 
 ## Prubeas Unitarias
